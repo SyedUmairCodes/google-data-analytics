@@ -1,5 +1,6 @@
 # Introduction
 
+## Data is present everywhere
 Data is present everywhere, you can extract data from even your everyday routine to see better insights about your life. The is so much data in our world that sometimes we might face and overload of information.
 
 New data is being created around us every second and data in it's rawest form isn't useful to us but if we collect and analyse data, find patterns and meanings in it then it is more valuable then oil in our modern day and age.
